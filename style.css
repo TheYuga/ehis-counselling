@@ -1,7 +1,7 @@
 /* Apply background gradient */
 body {
   background: linear-gradient(to bottom, rgb(67, 83, 52), rgb(158, 179, 132), rgb(206, 222, 189));
-  font-family: Arial, sans-serif;
+  font-family: "Segoe UI", Arial, sans-serif;
   margin: 0;
   padding: 0;
   text-decoration: none;
@@ -136,6 +136,23 @@ form input[type="submit"]:hover {
 form textarea {
   resize: none;
   width: 90%;
+}
+
+.submit{
+    font-family: "Segoe UI", Arial, sans-serif;
+    color: #FAF1E4;
+    background-color: #435334;
+    padding: 10px;
+    border: 2px solid #435334;
+    border-radius: 5px;
+    overflow: hidden;
+}   
+
+.submit:hover{
+    color: #435334;
+    background-color: transparent;
+    border: 2px solid #435334;
+
 }
 
 .footer {

@@ -2,7 +2,7 @@ body{
     background: linear-gradient(to bottom, rgb(67, 83, 52), rgb(158, 179, 132), rgb(206, 222, 189));
     text-decoration: none;
     word-spacing: 3px;
-    font-family: 'Mooli', sans-serif;
+    font-family: "Segoe UI", Arial, sans-serif;
 }
 
 .logo{
@@ -138,7 +138,7 @@ span{
 .footer .col h1 {
     margin: 0;
     padding: 0;
-    font-family: 'Mooli', sans-serif;
+    font-family: "Segoe UI", Arial, sans-serif;
     font-size: 12px;
     line-height: 17px;
     padding: 20px 0px 5px 0px;
@@ -159,7 +159,7 @@ span{
 .footer .col ul li {
     color: #FAF1E4;
     font-size: 14px;
-    font-family: 'Mooli', sans-serif;
+    font-family: "Segoe UI", Arial, sans-serif;
     font-weight: bold;
     padding: 5px 0px 5px 0px;
     cursor: pointer;
